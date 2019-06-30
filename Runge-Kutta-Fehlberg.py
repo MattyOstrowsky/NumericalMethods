@@ -1,8 +1,5 @@
 """
 metoda Runge-Kutta-Fehlberg
-Mateusz Ostrowski
-216708
-
 """
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,7 +1,4 @@
-"""
-Mateusz Ostrowski
-216708
-"""
+
 import numpy as np
 from matplotlib import pyplot as plt
 

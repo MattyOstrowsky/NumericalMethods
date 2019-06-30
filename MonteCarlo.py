@@ -1,8 +1,5 @@
 
 """
-Mateusz Ostrowski
-216708
-
 Obliczenie wartości składowych tensora momentu kwadrupolowego
 jednorodnie naładowanej bryły za pomocą całkowania metodą Monte-Carlo.
 

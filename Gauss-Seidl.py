@@ -1,6 +1,4 @@
 """
-Mateusz Ostrowski
-
 Metoda Gaussa-Seidla
 """
 import numpy as np
