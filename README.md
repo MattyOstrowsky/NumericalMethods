@@ -21,3 +21,5 @@ Comparison of interpolation using Neville's scheme based on uniformly distribute
 Searching for places of interrupted functions.
 ## trapezium-integration.py
 The algorithm of integration by trapezoid method and the newton method.
+# minimum
+Different methods for calculating the minimum function 
