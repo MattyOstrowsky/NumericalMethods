@@ -1,5 +1,5 @@
 # Numerical methods in Python
-<img align="right" width="33%" src="https://cdn-icons.flaticon.com/png/512/3655/premium/3655656.png?token=exp=1636213654~hmac=fae5f5beb97606b18b860f2b4fc57b59">
+<img align="right" width="15%" src="https://github.com/gunater/NumericalMethods/blob/master/assets/icons8-math-100.png">
 
 ## Table of contents
 
@@ -97,3 +97,4 @@ $ python3 <method>.py
 All code is licensed under an MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
 
 
+<a target="_blank" href="https://icons8.com/icon/lSsJs9f7c9bm/math">Math</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
